@@ -2,7 +2,7 @@
 ## Hello North America
 ### Hello Wisconsin
 
-My name is <GITHUB-USERNAME>. You killed my father...prepare to die.
+My name is kingbob300. You killed my father...prepare to die.
 Things to do
 - Sleep
 - Eat
